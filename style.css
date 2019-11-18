@@ -11,10 +11,6 @@ body {
     text-align: center;
 }
 
-h1, p {
-    color: #777;
-    background-color: #ebebeb;
-}
 
 header, nav, section, aside, footer, article div {
     background-color: #ebebeb;
